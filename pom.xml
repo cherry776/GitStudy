@@ -28,11 +28,6 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId/>
-            <artifactId/>
-        </dependency>
-
     </dependencies>
 
     <build>
